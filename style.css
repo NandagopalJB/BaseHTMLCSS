@@ -49,12 +49,12 @@ body{
 }
 .button{
     background-color: rgb(15, 155, 10);
-    margin-left: 172px;
+    margin-left: 141px;
     margin-top: 58px;
     width: 246px;
     height: 55px;
-    border-radius: 8px;
-    border: solid rgb(255, 238, 1) 5px;
+    border-radius: 35px;
+    border: solid rgb(0, 65, 34) 4px;
     padding-top: 12px;
     color: azure;
     padding-left: 28px;
